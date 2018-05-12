@@ -1,10 +1,16 @@
 _repo: The-Cure-of-Rupture-by-Paraffin-Injections_49662
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49662-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Charles C.
     gutenberg_agent_id: '45475'
     url: http://www.gutenberg.org/2009/agents/45475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49662#The-Cure-of-Rupture-by-Paraffin-Injections
 gutenberg_issued: '2015-08-09'
 gutenberg_type: Text
 identifiers:
